@@ -2,8 +2,8 @@
   "name": "whatsapp-lite-frontend",
   "version": "0.0.0",
   "scripts": {
-    "dev": "nodemon backend/server.js",
-    "start": "node backend/server.js",
+    "dev": "vite",
+    "start": "vite preview",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0 -c eslint.config.mjs",
     "preview": "vite preview"
