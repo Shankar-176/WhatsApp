@@ -1,6 +1,5 @@
 {
   "name": "whatsapp-lite-frontend",
-  "private": true,
   "version": "0.0.0",
   "scripts": {
     "dev": "nodemon server.js",
